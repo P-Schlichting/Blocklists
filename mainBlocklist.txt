@@ -28,4 +28,4 @@ twitter.hk
 osiyuk.com
 twitter.uz
 twitter.ae
-*.twitter.com
+twitter.com
